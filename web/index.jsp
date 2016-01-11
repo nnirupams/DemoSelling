@@ -7,13 +7,18 @@
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
-  <head>
+<head>
     <title>This is the demo selling website</title>
-  </head>
-  <body>
-  Here we sell
-  <div>
-    <p><h4>This is the box</h4></p>
-  </div>
-  </body>
+</head>
+<body>
+
+<div>
+    <div>
+        <p><h4>This is the box</h4></p>
+    </div>
+
+
+</div>
+</body>
+>>>>>>> master
 </html>

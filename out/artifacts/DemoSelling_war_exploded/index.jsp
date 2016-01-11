@@ -11,6 +11,7 @@
     <title>This is the demo selling website</title>
   </head>
   <body>
-  Here we sell
+  Here we sell | 
+  <a href="contact.jsp">Contacts</a>
   </body>
 </html>

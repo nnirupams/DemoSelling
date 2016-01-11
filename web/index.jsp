@@ -7,10 +7,12 @@
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
-  <head>
+<head>
     <title>This is the demo selling website</title>
-  </head>
-  <body>
-  Here we sell
-  </body>
+</head>
+<body>
+<div>
+    Here we sell
+</div>
+</body>
 </html>
